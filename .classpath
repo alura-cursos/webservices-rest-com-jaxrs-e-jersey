@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry including="**/*.java" kind="src" output="target/test-classes" path="src/test/java"/>
 	<classpathentry including="**/*.java" kind="src" path="src/main/java"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_152"/>
 	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/asm-all-repackaged-2.2.0-b21.jar"/>
 	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/cglib-2.2.0-b21.jar"/>
 	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/grizzly-framework-2.3.3.jar"/>
